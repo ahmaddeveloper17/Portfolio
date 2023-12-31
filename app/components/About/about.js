@@ -38,7 +38,7 @@ export default function About() {
               </div>
             </div>
             <div className="column right">
-              <div className="text">I'm a Ahmad and <span className="break">I'm a <span>Full Stack developer</span>
+              <div className="text">I'm a Ahmad and <span className="break">I'm a <span>Full Stack developer.</span>
                 </span>
               </div>
               <p>I'm Self-taught Next.js Developer. My goal is to build a fast, flexible,web and mobile-first website that clearly communicates with visitors.  My portfolio is a testament to the artistry inherent in programming.
